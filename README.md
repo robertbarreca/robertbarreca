@@ -1,6 +1,6 @@
 # Robert Barreca
 
-**`Aspiring Software Developer/Problem Solver/Tech Enthusiast`**
+**`Developer/Problem Solver/Tech Enthusiast`**
 
 I'm a recent graduate from the University of Wisconsin-Madison with a passion for software development. After initially pursuing business, I discovered my true interest in programming and made the switch, diving deep into coding and technology. I’m currently seeking an entry-level software engineering role where I can apply my skills in problem-solving, software development, and continuous learning.
 
