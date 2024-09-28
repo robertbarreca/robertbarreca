@@ -8,8 +8,8 @@ I'm a recent graduate from the University of Wisconsin-Madison with a passion fo
   <a href="https://www.linkedin.com/in/robert-barreca/">
     <img alt="linkedIn Profile" title="LinkedIn Profile" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logoColor=white&logo=linkedin"/></a>
 <!--   <a href="tel:+12247236572">
-    <img alt="Phone Number" title="Phone Number" src="https://custom-icon-badges.demolab.com/badge/-224--723--6572-yellow?style=for-the-badge&logo=phone&logoColor=white"/></a> 
-  <a href="mailto:robbarreka@gmail.com"> -->
+    <img alt="Phone Number" title="Phone Number" src="https://custom-icon-badges.demolab.com/badge/-224--723--6572-yellow?style=for-the-badge&logo=phone&logoColor=white"/></a> -->
+  <a href="mailto:robbarreka@gmail.com"> 
     <img alt="Email" title="Email" src="https://custom-icon-badges.demolab.com/badge/-robbarreka@gmail.com-red?style=for-the-badge&logo=mail&logoColor=white"/></a>
 </p>
 
